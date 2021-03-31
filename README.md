@@ -30,4 +30,4 @@ Total 3 (delta 0), reused 0 (delta 0)
 To http://github.com/sooyewguan/MongoNodeJS.git
  * [new branch]      main -> main
 Stranch 'main' set up to track remote branch 'main' from 'origin' .
- sooyewguan@Soos-MacBook-Pro Tutorial1 %
+sooyewguan@Soos-MacBook-Pro Tutorial1 %
