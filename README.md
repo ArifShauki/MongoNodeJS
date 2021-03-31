@@ -21,4 +21,13 @@ sooyewguan@Soos-MacBook-Pro Tutorial1 % git commit -m "first commit"
  1 file changed, 1 insertion(+)
  create mode 100644 README.md
 sooyewguan@Soos-MacBook-Pro Tutorial1 % git branch -M main
-sooyewguan@Soos-MacBook-Pro Tutorial1 % git remote add origin http://github
+sooyewguan@Soos-MacBook-Pro Tutorial1 % git remote add origin http://github.com/sooyewguan/MongoNodeJS.git
+sooyewguan@Soos-MacBook-Pro Tutorial1 % git push -u origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 244 bytes | 244.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To http://github.com/sooyewguan/MongoNodeJS.git
+ * [new branch]      main -> main
+Stranch 'main' set up to track remote branch 'main' from 'origin' .
+ sooyewguan@Soos-MacBook-Pro Tutorial1 %
